@@ -19,10 +19,14 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
+    
       [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gksflaxkdns1)](https://solved.ac/gksflaxkdns1)
+    
     </td>
     <td>
+      
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-jslove&layout=compact&theme=dark)
+    
     </td>
   </tr>
 </table>
