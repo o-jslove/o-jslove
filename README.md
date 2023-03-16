@@ -1,6 +1,5 @@
-### Hi there 👋
+###  어서오셔유 한번 야무지게 해보아요👋
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://solved.ac/profile/gksflaxkdns1/)
 <!--
 **o-jslove/o-jslove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
