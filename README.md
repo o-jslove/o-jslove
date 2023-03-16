@@ -1,5 +1,6 @@
 ###  어서오셔유 한번 야무지게 해보아요👋
 
+<hr>
 <!--
 **o-jslove/o-jslove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
